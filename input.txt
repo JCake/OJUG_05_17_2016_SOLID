@@ -1,0 +1,7 @@
+Grace Hopper
+James Gosling
+Kent Beck
+Joshua Block
+Robert Martin
+Katrina Owen
+Ada Lovelace
